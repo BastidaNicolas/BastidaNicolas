@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/OT9Zf8i.gif)
+![MasterHead](https://i.imgur.com/hrzLF2u.gif)
 
 - 👨‍💻 All of my projects are available at [nicolasebastida.thisisnttheoriginalurl](https://nicolasebastida.netlify.app/)
 - 💬 Ask me about **how much I can C&J**
