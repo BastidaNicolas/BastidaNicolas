@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm Nicolas Bastida, a full-stack developer with a passion for technology, seeking an entry-level role to apply my coding skills, teamwork aptitude, troubleshooting expertise, and project completion focus to make a meaningful contribution.
+I'm Nicolas Bastida, a full-stack developer with a passion for technology, seeking a role where I can apply my coding skills, teamwork aptitude, troubleshooting expertise, and project completion focus to make a meaningful contribution.
 
 ## Skills
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
