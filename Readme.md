@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm Nicolas Bastida, a full-stack developer with a passion for technology, seeking a role where I can apply my coding skills, teamwork aptitude, troubleshooting expertise, and project completion focus to make a meaningful contribution.
+I'm Nicolas Bastida, as a full-stack developer, I take pride in building applications that are not only accessible and efficient but also visually appealing and easy to use.
 
 ## Skills
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -39,19 +39,6 @@ I'm Nicolas Bastida, a full-stack developer with a passion for technology, seeki
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a>
 
-## Projects
-Here are some of my recent projects that I am particularly proud of:
-
-### Online CV
-Create and customize your digital resume with ease. This full-stack web application offers a CRUD platform and includes JWT authentication. Showcase your background with sections for an introduction, educational background, work history, portfolio projects, and technical skills.
-
-### Carpincho.xyz
-Stay informed about the cryptocurrency world with Carpincho.xyz. This platform provides a comprehensive view of the latest developments in the crypto-space, including top and trending coins, in-depth charting, information on various exchanges, up-to-date news, and more, all powered by Coingecko, Tradingview, and Bing News API.
-
-### Odontodracuello.com.ar
-Enhance your dental practice's online presence with a stunning website. Design created in Figma and developed utilizing React and leaflet.js, ensures a seamless user experience and effectively showcases your services to potential patients.
-
-Check out my [Github Repositories](https://github.com/BastidaNicolas?tab=repositories) to see all of my projects.
 
 ## Connect with me
 - 🔗 LinkedIn: [Nicolas E. Bastida](https://www.linkedin.com/in/nicolas-bastida)
