@@ -42,7 +42,7 @@ I'm Nicolas Bastida, as a full-stack developer, I take pride in building applica
 
 ## Connect with me
 - 🔗 LinkedIn: [Nicolas E. Bastida](https://www.linkedin.com/in/nicolas-bastida)
-- :earth_americas: Portfolio: [Nicolas.Bastida.dev](https://nicolasebastida.netlify.app)
+- :earth_americas: Portfolio: [Nicolas.Bastida.dev](https://nicolas.bastida.dev/)
 - 📫 E-mail: **bastidanicolase@gmail.com**
 
 Feel free to reach out to me for a chat or collaboration opportunity!
