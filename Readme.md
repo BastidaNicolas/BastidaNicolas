@@ -1,10 +1,10 @@
 ![MasterHead](https://i.imgur.com/hrzLF2u.gif)
 
-# Hi there! 👋
+## Hello! 👋
 
-I'm Nicolas Bastida, as a full-stack developer, I take pride in building applications that are not only accessible and efficient but also visually appealing and easy to use.
+I'm Nicolas Bastida, please feel free to contact me if you have any questions or concerns.
 
-## Skills
+## I'm experienced in
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
@@ -40,10 +40,12 @@ I'm Nicolas Bastida, as a full-stack developer, I take pride in building applica
 </a>
 
 
-## Connect with me
+and probably other things.
+
+## You can contact me here
 - 🔗 LinkedIn: [Nicolas E. Bastida](https://www.linkedin.com/in/nicolas-bastida)
 - :earth_americas: Portfolio: [Nicolas.Bastida.dev](https://nicolas.bastida.dev/)
 - 📫 E-mail: **bastidanicolase@gmail.com**
 
-Feel free to reach out to me for a chat or collaboration opportunity!
+Have a nice day!
 
