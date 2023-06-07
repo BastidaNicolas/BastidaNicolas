@@ -1,51 +1,61 @@
-![MasterHead](https://i.imgur.com/hrzLF2u.gif)
+<div align="center">
+  <img src="https://i.imgur.com/hrzLF2u.gif" alt="MasterHead" width="600px" />
+</div>
+<br>
+<p align="center">
+  <strong>Full-stack Web Developer.</strong> <br> 
+  Building applications that are accessible, efficient, visually appealing and easy to use.<br>
+  Currently, I am doing contract work while also developing <a href="https://www.dentaltrack.ar/" >DentalTrack.ar</a> on the sideline.<br>
+  Feel free to message me at <strong>bastidanicolase@gmail.com</strong>.<br>
+</p>
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/nicolas-bastida/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/Kn33_co">
+      <img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter" alt="Twitter">
+  </a>
+<!--
+  <a href="https://www.youtube.com/your-channel">
+      <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube" alt="YouTube">
+  </a>
+-->
+  <a href="https://nicolas.bastida.dev/">
+      <img src="https://img.shields.io/badge/Portfolio-0076D6?style=flat-square&logo=internetexplorer" alt="Portfolio">
+  </a>
+</div>
+<br>
 
-## Hello! 👋
+### Languages: 
 
-I'm Nicolas Bastida, please feel free to contact me if you have any questions or concerns.
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
+[![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 
-## I'm experienced in
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
-</a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-</a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/> 
-</a>
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
+### Frameworks/Libraries:
 
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://react.dev/)
+[![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)](https://angular.io/)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=spring)](https://spring.io/projects/spring-boot)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 
-and probably other things.
+### Others:
 
-## You can contact me here
-- 🔗 LinkedIn: [Nicolas E. Bastida](https://www.linkedin.com/in/nicolas-bastida)
-- :earth_americas: Portfolio: [Nicolas.Bastida.dev](https://nicolas.bastida.dev/)
-- 📫 E-mail: **bastidanicolase@gmail.com**
+[![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)](https://www.prisma.io/)
+[![tRPC](https://img.shields.io/badge/tRPC-black?style=for-the-badge&logo=trpc)](https://trpc.io/)
+[![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass)](https://sass-lang.com/)
+[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-Have a nice day!
+<br>
+<br>
+<p align="center">
+ Have a nice day!
+</p>
+<br>
+<br>
 
