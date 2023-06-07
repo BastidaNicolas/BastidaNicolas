@@ -54,8 +54,11 @@
 <br>
 <br>
 <p align="center">
- Have a nice day!
+ <strong>Have a nice day!</strong>
 </p>
+<div align="center">
+  <a href="https://github.com/BastidaNicolas" >
+      <img src="https://komarev.com/ghpvc/?username=BastidaNicolas&color=blue&style=flat)" />
+  </a>
+</div>
 <br>
-<br>
-
