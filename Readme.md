@@ -43,7 +43,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 
-### Others:
+### Other:
 
 [![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)](https://www.prisma.io/)
 [![tRPC](https://img.shields.io/badge/tRPC-black?style=for-the-badge&logo=trpc)](https://trpc.io/)
