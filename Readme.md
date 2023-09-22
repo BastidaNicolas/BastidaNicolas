@@ -5,8 +5,8 @@
 <p align="center">
   <strong>Full-stack Web Developer.</strong> <br> 
   Building applications that are accessible, efficient, visually appealing and easy to use.<br>
-  Currently, I am doing contract work while also developing <a href="https://www.dentaltrack.ar/" >DentalTrack.ar</a> on the sideline.<br>
-  Feel free to message me at <strong>bastidanicolase@gmail.com</strong>.<br>
+  I'm currently doing contract work and developing <a href='https://www.dentaltrack.ar/'>DentalTrack.ar</a> when I have the time. 😄<br>
+  Feel free to message me at <strong>bastidanicolase@gmail.com</strong>. <br>I'm always open to new opportunities. <br>
 </p>
 <br>
 <div align="center">
@@ -56,9 +56,4 @@
 <p align="center">
  <strong>Have a nice day!</strong>
 </p>
-<div align="center">
-  <a href="https://github.com/BastidaNicolas" >
-      <img src="https://komarev.com/ghpvc/?username=BastidaNicolas&color=blue&style=flat)" />
-  </a>
-</div>
 <br>
