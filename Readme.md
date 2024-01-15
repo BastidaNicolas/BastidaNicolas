@@ -4,7 +4,7 @@
 <br>
 <p align="center">
   I'm currently developing <a href='https://www.dentaltrack.ar/'>DentalTrack.ar</a> when I have the time. 😄<br>
-  Feel free to message me at <strong>bastidanicolase@gmail.com</strong>. <br>I'm always open to new opportunities. <br>
+  Feel free to message me at <strong>bastidanicolase@gmail.com</strong>.
 </p>
 <br>
 <div align="center">
